@@ -1,0 +1,2 @@
+# This scaffold uses only the Python standard library.
+# Add pandas/pyarrow later if we decide to scale the research workflow.
